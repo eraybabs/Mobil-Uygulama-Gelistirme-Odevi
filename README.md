@@ -1,2 +1,1 @@
-# Mobil-Uygulama-Gelistirme-Odevi
- Hafıza oyunu
+Eray Altun - 1190505007
